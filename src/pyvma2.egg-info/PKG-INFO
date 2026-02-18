@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: pyvma2
+Version: 3.4.0
+Summary: Modern Python CFFI wrapper for Vulkan Memory Allocator 3.x
+License-Expression: Apache-2.0
+Requires-Python: >=3.10
+License-File: LICENSE
+Requires-Dist: cffi>=1.16
+Dynamic: license-file
